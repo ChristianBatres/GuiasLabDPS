@@ -4,3 +4,6 @@
 [submodule "guia02/guia02/PruebaGit"]
 	path = guia02/guia02/PruebaGit
 	url = https://github.com/ChristianBatres/PruebasGit.git
+[submodule "guia03/guia03/PruebaGit"]
+	path = guia03/guia03/PruebaGit
+	url = https://github.com/ChristianBatres/PruebasGit.git
