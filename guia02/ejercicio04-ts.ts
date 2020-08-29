@@ -16,7 +16,7 @@ numero2:number;
 constructor(_numero1:number, _numero2:number){
     this.numero1=_numero1;
     this.numero2=_numero2;
-    console.log("Suma: "+suma(this.numero1,this.numero2)+ "Resta: "+resta(this.numero1,this.numero2)+" Multiplicacion: "+multiplicacion(this.numero1,this.numero2)+" Division: "+division(this.numero1,this.numero2));
+    console.log("Suma: "+suma(this.numero1,this.numero2)+ " Resta: "+resta(this.numero1,this.numero2)+" Multiplicacion: "+multiplicacion(this.numero1,this.numero2)+" Division: "+division(this.numero1,this.numero2));
 }
 
 }

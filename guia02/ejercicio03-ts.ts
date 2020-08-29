@@ -12,4 +12,5 @@ salario:number;
     }
     
 }
+
 let empleado=new Empleado("Christian Batres",1525);
