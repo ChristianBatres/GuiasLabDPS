@@ -8,7 +8,13 @@
 [submodule "guia03/guia03/ejercicio2"]
 	path = guia03/guia03/ejercicio2
 	url = https://github.com/ChristianBatres/guia03_02_angular.git
+<<<<<<< HEAD
+[submodule "guia04/guia04/ejercicio1"]
+	path = guia04/guia04/ejercicio1
+	url = https://github.com/ChristianBatres/ejercicio1_guia4.git
+=======
 [submodule "guia02/guia02/PruebaGit"]
 	path = guia02/guia02/PruebaGit
 	url = https://github.com/ChristianBatres/PruebasGit.git
 
+>>>>>>> 5741f3655fbfe5015a8409282cca2c9e036fee2c
